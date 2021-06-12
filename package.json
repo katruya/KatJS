@@ -1,0 +1,30 @@
+{
+  "name": "generaltesting",
+  "version": "1.0.0",
+  "description": "Generally Tested",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "katruya",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.4",
+    "bower": "^1.8.12",
+    "commander": "^7.2.0",
+    "commonjs": "0.0.1",
+    "create-react-app": "^4.0.3",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mocha": "^9.0.0",
+    "nodemailer": "^6.6.1",
+    "passport": "^0.4.1",
+    "pug": "^3.0.2",
+    "socket.io": "^4.1.2",
+    "tsc": "^2.0.3",
+    "webpack": "^5.38.1"
+  }
+}

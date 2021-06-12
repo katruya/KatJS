@@ -1,0 +1,43 @@
+html, body {
+    background-color: rgba(26, 13, 37, 0.897);
+}
+
+header {
+    width: 100%;
+    top: 0;
+    padding: 10px;
+    background-color: rgb(131, 50, 128);
+}
+
+#app {
+    padding: auto;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+#content {
+    z-index: -10;
+    padding: 50px;
+}
+
+#content p {
+    font-size: x-large;
+}
+
+.img {
+    width: fit-content;
+    height: auto;
+    border-radius: 50%;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 15px;
+    line-height: 15px;
+    background-color: rgb(151, 133, 150);
+}
