@@ -7,7 +7,7 @@ const date = new Date();
 // Build your components here
 const header = new Component(
     `<header class="text-center">
-        <img src="img/katJS.jpg" class="img">
+        <img src="https://raw.githubusercontent.com/katruya/KatJS/main/public/img/katJS.jpg" alt="The Demon Kat" class="img">
         <h1>${indexText["header-txt"]}</h1>
         <hr>
         <h2>${date.toDateString()}</h2>
