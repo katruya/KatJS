@@ -12,7 +12,12 @@ const indexText = {
         <p>
             I am designing this template to be as
             flexible as possible!
-        </p>   
+        </p>
+        <p>
+            I use this template for most of my projects!
+        </p>
+        <p>* * *</p>
+        <h2>Check out my <a href="https://github.com/katruya" target="_blank">Github</a></h2>
     `,
 
 }

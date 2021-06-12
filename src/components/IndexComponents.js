@@ -25,7 +25,6 @@ const app = new Component(
 const footer = new Component(
     `<footer class="text-center">
         <h3>&copy; ${date.getFullYear()} Kat B.</h3>
-    
     </footer>`
 );
 
